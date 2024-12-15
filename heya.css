@@ -1,0 +1,66 @@
+body{
+    text-align:center;
+}
+
+.heya{
+    position: relative;
+}
+  
+.text{
+    position: absolute;
+    top: 67%;
+    left:12%;
+    color: white;
+    font-size:3.1ex;
+    line-break: normal;
+    right:12%;
+}
+
+.text-2{
+    position: absolute;
+    top: 42%;
+    left:12%;
+    color: white;
+    font-size:4ex;
+    line-break: normal;
+    right:12%;
+}
+
+.sentaku{
+    position: absolute;
+    top: 4%;
+    left:12%;
+    color: white;
+    font-size:4ex;
+    line-break: normal;
+    right:12%;
+}
+
+.yes{
+    position: absolute;
+    top: 21%;
+    left:12%;
+    color: rgb(34, 34, 34);
+    font-size:8ex;
+    line-break: normal;
+    right:12%;
+}
+
+.no{
+    position: absolute;
+    top: 64%;
+    left:12%;
+    color: rgb(34, 34, 34);
+    font-size:8ex;
+    line-break: normal;
+    right:12%;
+}
+.yes a{
+    text-decoration: none;
+    color: rgb(34, 34, 34);
+}
+
+.no a{
+    text-decoration: none;
+    color: rgb(34, 34, 34);
+}
